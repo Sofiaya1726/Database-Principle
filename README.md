@@ -1,16 +1,5 @@
 # 第一节课 课下作业
-### sqlite
-以下图片为SQLite的安装过程：
-1.下载安装包：
- 
-2.安装过程以及配置：
- 
-3.安装完成，成功连接：
- 
-4.查看SQLIte表：
- 
-安装SQLiteStudio，并且建表：
-
+![image](https://github.com/Sofiaya1726/Database-Principle/blob/master/homework.jpg)
  
 
 
