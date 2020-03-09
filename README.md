@@ -1,3 +1,5 @@
+#第三节课 课堂作业
+![image](https://github.com/Sofiaya1726/Database-Principle/blob/master/homework02.jpg)
 # 第一节课 课下作业
 ![image](https://github.com/Sofiaya1726/Database-Principle/blob/master/homework.jpg)
  
